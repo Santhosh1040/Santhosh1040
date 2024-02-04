@@ -1,4 +1,4 @@
-Hi 👋 My name is santhoshkumar.s
+Hi 👋 My name is Santhoshkumar.s
 ================================
 
 Python Developer
