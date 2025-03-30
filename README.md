@@ -1,7 +1,7 @@
 Hi 👋 My name is Santhoshkumar.s
 ================================
 
-Python Developer
+Python Develope
 ----------------
 
 I am an enthusiastic developer eager to delve into the world of technology, eager to learn and explore.
