@@ -7,7 +7,7 @@ Python Developer
 I am an enthusiastic developer eager to delve into the world of technology, eager to learn and explore.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [santhoshkumar5223ygmail.com](mailto:santhoshkumar5223y@gmail.com)
+* ✉️  You can contact me at [santhoshkumar5223@ygmail.com](mailto:santhoshkumar5223y@gmail.com)
 * 🚀  I'm currently working on [exploring things](http://.)
 * 🧠  I'm learning web dev
 * 🤝  I'm open to collaborating on hackathons and internships
