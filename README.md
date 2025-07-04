@@ -11,7 +11,7 @@ I am an enthusiastic developer eager to delve into the world of technology, eage
 * 🚀  I'm currently working on [exploring things](http://.)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on hackathons and internships
-* ⚡  I am Batman
+  
 
 <a href="https://www.github.com/Santhosh1040" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Santhosh1040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
