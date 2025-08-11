@@ -1,4 +1,6 @@
 ##SANTHOSH KUMAR S
+
+
 I’m a passionate technology learner exploring different areas of programming, problem-solving, and development.
 
 - 📫 Reach me at **[santhoshkumar5223@ygmail.com](mailto:santhoshkumar5223@ygmail.com)**  
