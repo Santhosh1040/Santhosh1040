@@ -1,16 +1,12 @@
-Hi 👋 My name is Santhoshkumar.s
-================================
+## 🧑‍💻 About Me
+I’m a passionate technology learner exploring different areas of programming, problem-solving, and development.
 
-Python Developer
-----------------
+- 📫 Reach me at **[santhoshkumar5223@ygmail.com](mailto:santhoshkumar5223@ygmail.com)**  
+- 🚀 Currently learning **Python, DSA, and Web Technologies**  
+- 🧩 Interested in **building projects & trying new tech**  
+- 🤝 Open to collaborating on **hackathons, open-source, and internships**  
+- 🌐 Open to remote and global opportunities  
 
-I am an enthusiastic developer eager to delve into the world of technology, eager to learn and explore.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [santhoshkumar5223@ygmail.com](mailto:santhoshkumar5223y@gmail.com)
-* 🚀  I'm currently working on [exploring things](http://.)
-* 🧠  I'm learning DSA 
-* 🤝  I'm open to collaborating on hackathons and internships
   
 
 <a href="https://www.github.com/Santhosh1040" target="_blank" rel="noreferrer"><img
