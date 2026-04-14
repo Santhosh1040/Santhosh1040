@@ -6,7 +6,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 - 📍 Chennai, India  
 - 🎓 B.Tech CSE (AI & ML)  
-- 📫 Reach me at **santhoshkumar5223@gmail.com**  
+- 📫 Reach me at **santhoshkumar5223y@gmail.com**  
 - 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**  
 - 🤝 Open to **internships, full-time roles, and collaboration opportunities**  
 - 🌐 Open to remote and global opportunities  
@@ -19,27 +19,22 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-Python, C++, Java  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tailwind,nodejs,django,fastapi,postgres,mysql,sqlite,docker,git,linux,tensorflow,pytorch" />
+</p>
 
-### ⚙️ Backend Development
-Django, REST APIs, FastAPI (basic), Node.js  
+---
 
-### 🤖 AI/ML & Data
-Machine Learning, Deep Learning, NLP, Generative AI, LLMs  
-Scikit-learn, TensorFlow, PyTorch  
+## 🤖 AI / ML & GenAI
 
-### 🧠 LLM & AI Tools
-LangChain, RAG, Vector Databases (FAISS), Prompt Engineering  
-
-### 🗄️ Databases
-PostgreSQL, MySQL, SQLite  
-
-### ☁️ DevOps & Tools
-Docker, Git, AWS (basic), Linux  
-
-### 🌐 Web
-HTML, CSS, Tailwind  
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
+</p>
 
 ---
 
