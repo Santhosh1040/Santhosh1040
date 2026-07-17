@@ -93,7 +93,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/santhosh-kumar-s-b0025b278/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
