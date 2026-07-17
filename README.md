@@ -1,17 +1,17 @@
 ## Hi 👋, I'm Santhosh Kumar S
 
-AI/ML Engineer | Backend Developer  
+### AI/ML Engineer | Backend Developer
 
 I build real-time ML-driven systems and scalable backend applications using Python, Django, and modern AI technologies.
 
-- 📍 Chennai, India  
-- 🎓 B.Tech CSE (AI & ML)  
-- 📫 Reach me at **santhoshkumar5223y@gmail.com**  
-- 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**  
-- 🤝 Open to **internships, full-time roles, and collaboration opportunities**  
-- 🌐 Open to remote and global opportunities  
+- 📍 Chennai, India
+- 🎓 B.Tech CSE (AI & ML)
+- 📫 Reach me at **santhoshkumar5223y@gmail.com**
+- 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**
+- 🤝 Open to **internships, full-time roles, and collaboration opportunities**
+- 🌐 Open to remote and global opportunities
 
-<a href="https://www.github.com/Santhosh1040" target="_blank" rel="noreferrer">
+<a href="https://github.com/Santhosh1040" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/Santhosh1040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
@@ -21,7 +21,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 <p align="left">
 
-<!-- Row 1 -->
+<!-- Languages -->
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
@@ -34,7 +34,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 <br/>
 
-<!-- Row 2 -->
+<!-- Backend -->
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
@@ -45,49 +45,31 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 <br/>
 
-<!-- Row 3 -->
+<!-- DevOps -->
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
 
+<br/>
+
 <!-- AI / ML -->
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
 
-<a href="https://opencv.org/" target="_blank">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
 <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-</a>
-
-<a href="https://faiss.ai/" target="_blank">
 <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
 <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
-</a>
 
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <a href="https://github.com/Santhosh1040" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
@@ -95,16 +77,4 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 <a href="https://www.linkedin.com/in/santhosh-kumar-s-b0025b278/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
-<a href="http://www.github.com/Santhosh1040">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh1040&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/Santhosh1040" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh1040&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
 </a>
