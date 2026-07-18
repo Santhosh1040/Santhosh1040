@@ -7,6 +7,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 - 📍 Chennai, India
 - 🎓 B.Tech CSE (AI & ML)
 - 📫 Reach me at **santhoshkumar5223y@gmail.com**
+- 🌐 Portfolio: **https://portfolio-santhoshkumarr.vercel.app/** 
 - 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**
 - 🤝 Open to **internships, full-time roles, and collaboration opportunities**
 - 🌐 Open to remote and global opportunities
