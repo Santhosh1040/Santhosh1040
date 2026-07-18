@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Santhosh Kumar S
 
-### AI/ML Engineer | Backend Developer
+### Software Engineer | AI Engineer | Backend Developer
 
 I build real-time ML-driven systems and scalable backend applications using Python, Django, and modern AI technologies.
 
