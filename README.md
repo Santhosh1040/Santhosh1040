@@ -80,3 +80,7 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 <a href="https://www.linkedin.com/in/santhosh-kumar-s-b0025b278/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="mailto:santhoshkumar5223y@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
