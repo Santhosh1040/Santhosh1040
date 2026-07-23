@@ -2,11 +2,11 @@
 
 <h3 align="center">
 A passionate
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=420&lines=Software+Engineer;AI%2FML+Engineer;Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+Developer;AI%2FML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-I build real-time ML-driven systems and scalable backend applications using Python, Django, FastAPI, and modern AI technologies.
+I build scalable backend applications, AI-powered systems, and modern web applications using Python, FastAPI, Django, React, and cloud-native technologies.
 </p>
 
 <p align="center">
@@ -33,11 +33,17 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 
 ---
 
-- 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**
-- 🌍 Active Open Source Contributor
-- 🤝 Open to **internships, full-time roles, and collaboration opportunities**
-- 🌐 Open to remote and global opportunities
+<p align="center">
 
+🚀 Currently working on **AI/ML systems, LLM applications, and backend development**
+
+🌍 **Active Open Source Contributor**
+
+🤝 Open to **internships, full-time roles, and collaboration opportunities**
+
+🌐 Open to **remote and global opportunities**
+
+</p>
 
 ---
 
@@ -94,10 +100,6 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 ---
 
 ## 🌐 Connect with Me
-
-<a href="https://github.com/Santhosh1040" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 
 <a href="https://www.linkedin.com/in/santhosh-kumar-s-b0025b278/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
