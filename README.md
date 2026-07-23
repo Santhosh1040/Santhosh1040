@@ -1,24 +1,43 @@
-## Hi 👋, I'm Santhosh Kumar S
+<h1 align="center">Hi 👋, I'm Santhosh Kumar S</h1>
 
-### Software Engineer | AI Engineer | Backend Developer
+<h3 align="center">
+A passionate
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=420&lines=Software+Engineer;AI%2FML+Engineer;Backend+Developer" alt="Typing SVG" />
+</h3>
 
-I build real-time ML-driven systems and scalable backend applications using Python, Django, and modern AI technologies.
+<p align="center">
+I build real-time ML-driven systems and scalable backend applications using Python, Django, FastAPI, and modern AI technologies.
+</p>
 
-- 📍 Chennai, India
-- 🎓 B.Tech CSE (AI & ML)
-- 📫 Reach me at **santhoshkumar5223y@gmail.com**
-- 🌐 Portfolio: **https://portfolio-santhoshkumarr.vercel.app/**
-- 🌍 Open Source Contributor | **ECSoC26**
+<p align="center">
+📍 Chennai, India • 🎓 B.Tech CSE (AI & ML)
+</p>
+
+<p align="center">
+📫 <a href="mailto:santhoshkumar5223y@gmail.com">santhoshkumar5223y@gmail.com</a> •
+🌐 <a href="https://portfolio-santhoshkumarr.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/santhosh-kumar-s-b0025b278/">LinkedIn</a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/ECSoC-2026-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-LLMs%20%7C%20RAG-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
 - 🚀 Currently working on **AI/ML systems, LLM applications, and backend development**
+- 🌍 Active Open Source Contributor
 - 🤝 Open to **internships, full-time roles, and collaboration opportunities**
 - 🌐 Open to remote and global opportunities
 
-<p align="left">
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/ECSoC-2026-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-LLMs%20%7C%20RAG-purple?style=for-the-badge" />
-</p>
 
 ---
 
