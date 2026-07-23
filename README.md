@@ -13,9 +13,12 @@ I build real-time ML-driven systems and scalable backend applications using Pyth
 - 🤝 Open to **internships, full-time roles, and collaboration opportunities**
 - 🌐 Open to remote and global opportunities
 
-<a href="https://github.com/Santhosh1040" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Santhosh1040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+<p align="left">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/ECSoC-2026-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-LLMs%20%7C%20RAG-purple?style=for-the-badge" />
+</p>
 
 ---
 
